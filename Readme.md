@@ -51,7 +51,7 @@ expense_tracker/
 |   |   `-- summary_service.py   # Aggregation queries for totals and monthly stats
 |   `-- utils/
 |       `-- exceptions.py        # Reusable HTTP exception helpers
-|-- .env                         # Environment variables (do not commit secrets)
+|-- .env                         # Environment variables (Not committed here)
 |-- pyproject.toml               # Project dependencies and metadata
 `-- Readme.md                    # Project documentation
 ```
